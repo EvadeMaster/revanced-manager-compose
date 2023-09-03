@@ -52,7 +52,7 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.6.1")
 
     // Compose
-    val composeVersion = "1.3.3"
+    val composeVersion = "1.5.0"
     implementation("androidx.compose.ui:ui:$composeVersion")
     implementation("androidx.compose.ui:ui-tooling-preview:$composeVersion")
 
